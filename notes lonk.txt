@@ -1,0 +1,104 @@
+https://github.com/puneetbhatia77/devops-exercises#kubernetes
+
+https://tutorialslink.com/mcq-quiz/devops-mcq-multiple-choice-questions-and-answers
+
+
+1.Docker
+
+measures knowledge of deploying, maintaining and executing the Docker tool to run applications
+
+  in Docker containers in a DevOps-structured workflow.
+
+2. Jenkins
+
+   tests knowledge of integrating changes to a software project as quickly as possible and obtaining
+
+   fresh builds for continuous integration and delivery with Jenkins in alignment with DevOps principles.
+
+3.DevOps Strategy
+
+  measures knowledge and ability to adopt DevOps cultural changes among people,
+
+  processes and products. It covers team building and practice implementation. Core
+
+4. Continuous Integration and Deployment Processes
+
+  analyzes knowledge of DevOps processes and
+
+  concepts to allow for continuous integration and continuous deployment of software. Core
+
+5. Testing and Monitoring
+
+   determines knowledge of testing software in a DevOps environment, as well as its
+
+   relationship to continuous monitoring, integration and deployment. Core
+
+6.Git
+
+   Measures knowledge of using the git command line for managing source code repositories in a
+
+  DevOps environment. Core
+
+7. Core Concepts
+
+  Measures understanding of high-level concepts in a DevOps environment. Core
+
+8. Automation, Continuous Integration and Continuous Deployment (CI/CD)
+
+  tests knowledge and
+
+  implementation of automating processes, and utilizing CI/CD practices in DevOps environment. Core
+
+9. Monitoring, Measurement and Quality Assurance
+
+   tests knowledge and understanding around the required
+
+   practices to maintain a healthy and functional application. Core
+
+10. Source Code Management
+
+   analyzes knowledge of DevOps processes and concepts specific to source code
+
+   management practices. Core
+
+11. Infrastructure as Code analyzes understanding and knowledge around Infrastructure as Code practices.
+
+    Core
+
+12.Container Management
+
+   analyzes concepts and practices around the use of docker containers in a DevOps
+
+   environment.
+
+13. Using the Linux Shell measures basic user-level knowledge of using the Linux shell, and familiarity with
+
+    common commands and concepts relevant to a DevOps engineer in a Linux-first environment.
+
+14. Scripting in Bash
+
+   measures knowledge required to read and write scripts in bash.
+
+15. Using GitHub
+
+   measures familiarity with key Github features, such as Github Actions, issue management,
+
+   and pull requests.
+
+16. Kubernetes Architecture
+
+   determines understanding of master/worker node architecture, the Kubernetes
+
+   API server, scheduler, controller manager, and node components (kubelet and kube-proxy). Core
+
+17. Kubernetes Fundamentals
+
+    tests understanding of Kubernetes as a container orchestrator, as an
+
+    application platform to allow developers to deploy applications, and as an automation platform with self[1]healing capabilities. Core
+
+18. Kubernetes Developer Concepts
+
+     tests understanding of kubectl usage and the core concepts of
+
+     Kubernetes like pods, ReplicaSet, and Deployment. Core
